@@ -1,0 +1,1 @@
+Welcome to my first framework this is a 1942rp server framework jtlyk and might be a tiny bit buggy so enjoy and mak sure to change the stuff to whatever you want. from the community of nomas framework and services.
